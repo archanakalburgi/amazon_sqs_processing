@@ -25,4 +25,4 @@
 
 Here is the screenshot the entries in the database 
 
-![](postgress_db.png)
+![](postgress_db.png) 
